@@ -7,5 +7,6 @@
   tasks:
     - name: "Install pip dependencies"
       pip:
-        name: requests
+        name: 
+          - requests
         executable: pip3
