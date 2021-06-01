@@ -9,4 +9,6 @@
       pip:
         name: 
           - requests
+          - json
+          - logging
         executable: pip3
